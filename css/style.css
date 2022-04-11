@@ -8,9 +8,48 @@
 
 
 body {
-    font-family: 'Raleway',
-    sans-serif;
-    font-family: 'Roboto',
-    sans-serif;
+    /*font-family: 'Raleway',
+    sans-serif;*/
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+    background-color: #E5E5E5;
 }
 
+.logo {
+    font-family: 'Raleway', sans-serif;
+    color:#2196F3
+}
+
+.logo-black {
+    font-family: 'Raleway',
+    sans-serif;;
+    color:#212121
+}
+
+.logo-white {
+    font-family: 'Raleway',
+    sans-serif;;
+    color:#FFFFFF
+}
+
+.site.nav .link {
+    color: #212121;
+}
+
+.site.nav .link:active,
+.site.nav .link:hover,
+.site.nav .link:focus
+{
+    color: #2196F3;
+}
+
+.std-contacts .link {
+    color: #212121;
+}
+
+.std-contacts .link:active
+.std-contacts .link:hover
+.std-contacts .link:focus
+{
+    color: #2196F3;
+}

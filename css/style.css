@@ -18,6 +18,10 @@ body {
 .logo {
     font-family: 'Raleway', sans-serif;
     color:#2196F3
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
 }
 
 .logo-black {
@@ -30,87 +34,4 @@ body {
     font-family: 'Raleway',
     sans-serif;;
     color:#FFFFFF
-}
-
-.site-nav .link {
-    color: #212121;
-}
-
-.site-nav .link:active,
-.site-nav .link:hover,
-.site-nav .link:focus
-{
-    color: #2196F3;
-}
-
-.std-contacts .link {
-    color: #212121;
-}
-
-.std-contacts .link:active,
-.std-contacts .link:hover,
-.std-contacts .link:focus{
-    color: #2196F3;
-}
-
-.main-title {
-    color: var(--accent-color);
-    font-style: normal;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 3.5;
-}
-
-.order-button {
-    color: #FFFFFF;
-    background-color: #2196F3;
-    cursor: pointer;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 1.5;
-} 
-
-.order-button:active {
-    color: #212121;
-    background-color: #F5F4FA;
-    cursor: pointer;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 1.5;
-}
-
-.services-button {
-    color: #212121;
-    background-color: #F5F4FA;
-    cursor: pointer;
-}
-
-.services-button:active {
-    color: var(--accent-color);
-    background-color: #2196F3;
-    cursor: pointer;
-}
-
-.subtitle {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 2;
-}
-
-.list-title {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 1;
-}
-
-.list-desc {
-    color: #757575;
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 1.5;
 }

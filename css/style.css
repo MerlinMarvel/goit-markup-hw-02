@@ -44,11 +44,19 @@ body {
      letter-spacing: 0.03em;
  }
 
- .site-nav {
+ .site-nav,
+ .std-contacts,
+ .std-contacts-footer,
+ .text-list,
+ .img-list,
+ .staff-list,
+ .button-list,
+ .works-list {
     list-style-type: none; 
 }
 
-.site-nav .link {
+.site-nav .link,
+.std-contacts .link {
     text-decoration: none;
     font-family: 'Roboto';
     font-weight: 500;
@@ -60,6 +68,9 @@ body {
 }
 
 .site-nav .link:hover,
-.site-nav .link:focus {
+.site-nav .link:focus,
+.std-contacts .link:hover,
+.std-contacts .link:focus {
     color: #2196F3;
 }
+

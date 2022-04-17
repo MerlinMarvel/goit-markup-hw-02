@@ -17,7 +17,7 @@ body {
 
 .logo {
     font-family: 'Raleway', sans-serif;
-    color:#2196F3
+    color:#2196F3;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -27,7 +27,7 @@ body {
 
 .logo-black {
     font-family: 'Raleway', sans-serif;
-    color:#212121
+    color:#212121;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;

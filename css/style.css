@@ -58,7 +58,6 @@ body {
 .site-nav .link,
 .std-contacts .link {
     text-decoration: none;
-    font-family: 'Roboto';
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -76,7 +75,6 @@ body {
 
 .std-contacts-footer .link {
     text-decoration: none;
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -91,5 +89,8 @@ body {
 }
 
 .main-title {
-    
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    color: #FFFFFF;
 }

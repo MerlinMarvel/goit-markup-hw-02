@@ -43,3 +43,7 @@ body {
      line-height: 1.2;
      letter-spacing: 0.03em;
  }
+
+ .site-nav {
+    text-decoration: none;
+ }

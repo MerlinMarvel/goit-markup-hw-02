@@ -45,6 +45,14 @@ body {
  }
 
  .site-nav {
-    text-decoration: none;
     list-style-type: none; 
+}
+
+.site-nav .link {
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
 }

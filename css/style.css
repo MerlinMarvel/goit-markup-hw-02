@@ -55,13 +55,13 @@ body {
     list-style-type: none; 
 }
 
-.site-nav .link, {
+.site-nav .link {
     text-decoration: none;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: #212121;
+    color:#212121
     
 }
 

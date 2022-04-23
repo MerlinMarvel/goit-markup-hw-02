@@ -55,8 +55,7 @@ body {
     list-style-type: none; 
 }
 
-.site-nav .link,
-.std-contacts .link {
+.site-nav .link, {
     text-decoration: none;
     font-weight: 500;
     font-size: 14px;
@@ -64,6 +63,15 @@ body {
     letter-spacing: 0.02em;
     color: #212121;
     
+}
+
+.std-contacts .link {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: ##757575
 }
 
 .site-nav .link:hover,
